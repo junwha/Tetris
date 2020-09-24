@@ -1,2 +1,2 @@
 # Tetris
-Develop Tetris Game with Language C
+Developed Tetris Game with Language C
